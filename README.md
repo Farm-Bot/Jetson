@@ -6,7 +6,7 @@ This repo is the computer vision source code intended to run on jetson nano dev 
 Clone repo
 ----------
 ```
-git clone https://github.com/derv82/wifite2.git
+git clone https://github.com/Farm-Bot/Jetson.git
 ```
 
 Install dependancys
@@ -14,7 +14,7 @@ Install dependancys
 to install all the dependancys required apart from the defalult pakages avalibe in jetson flavor of ubuntu, run:
 
 ```
-cd 
+cd Jetson
 pip install -r requirements.txt
 ```
 
