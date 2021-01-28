@@ -1,0 +1,7 @@
+tensorflow
+keras
+Pillow
+pyserial
+cv2
+numpy
+pyserial
