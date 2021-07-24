@@ -23,5 +23,5 @@ Run main code
 to initilize the camera and run the CNN algorithm on the video
 
 ```
-python3 main.py
+python3 simpleMain.py 
 ```
